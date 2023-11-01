@@ -19,3 +19,6 @@ print(phrase[11])
 
 # index funtion
 print(phrase.index("a"))
+
+# replace function
+print(phrase.replace("phrase", "elephant"))
